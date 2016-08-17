@@ -3,4 +3,4 @@ echo tightvncserver installation complete
 echo --------------------------------------------------
 echo --------------------------------------------------
 echo --------------------------------------------------
-echo Thank you for using mojtabaielec's software
+echo  "Thank you for using mojtabaielec's software"
